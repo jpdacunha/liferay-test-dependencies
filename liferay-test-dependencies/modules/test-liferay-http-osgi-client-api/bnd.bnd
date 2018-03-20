@@ -1,0 +1,6 @@
+Bundle-Name: test-liferay-http-osgi-client-api
+Bundle-SymbolicName: test.liferay.http.osgi.client.api
+Bundle-Version: 1.0.0
+Export-Package: \
+	com.liferay.dependency.test.http.osgi.client.api.model,\
+	com.liferay.dependency.test.http.osgi.client.api

@@ -1,0 +1,6 @@
+Bundle-Name: test-liferay-http-client-api
+Bundle-SymbolicName: test.liferay.http.client.api
+Bundle-Version: 1.0.0
+Export-Package: \
+	com.liferay.mypackage.test.http.client.api.model,\
+	com.liferay.mypackage.test.http.client.api

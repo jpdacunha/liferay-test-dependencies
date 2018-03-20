@@ -1,0 +1,8 @@
+Bundle-Name: test-liferay-conseileurope-web
+Bundle-SymbolicName: test.liferay.conseileurope.web
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.test.conseileurope.portlet.constants
+Import-Package: !org.apache.avalon.*,\
+!org.apache.log.*,\
+!org.opensaml.*,\
+*

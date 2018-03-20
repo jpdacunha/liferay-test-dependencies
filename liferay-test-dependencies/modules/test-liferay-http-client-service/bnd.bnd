@@ -1,0 +1,3 @@
+Bundle-Name: test-liferay-http-client-service
+Bundle-SymbolicName: test.liferay.http.client.service
+Bundle-Version: 1.0.0

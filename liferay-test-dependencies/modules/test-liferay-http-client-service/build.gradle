@@ -1,0 +1,15 @@
+liferayOSGi {
+    expandCompileInclude = false
+}
+
+dependencies {
+
+	compileOnly group: "org.osgi", name: "org.osgi.core", version: "6.0.0"
+	compileOnly group: "org.osgi", name: "org.osgi.service.component.annotations", version: "1.3.0"
+	compileOnly group: "org.osgi", name: "org.osgi.core", version: "6.0.0"
+	compileInclude group: 'com.sun.jersey', name: 'jersey-client', version: '1.19.4'
+	compileInclude group: 'com.fasterxml.jackson.jaxrs', name: 'jackson-jaxrs-json-provider', version: '2.7.2'
+	compileOnly group: "com.liferay.portal", name: "com.liferay.portal.kernel", version: "2.0.0"
+    
+    compileOnly project(":modules:test-liferay-http-client-api")
+}

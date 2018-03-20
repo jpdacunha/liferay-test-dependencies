@@ -1,0 +1,4 @@
+Bundle-Name: test-liferay-http-client-web
+Bundle-SymbolicName: test.liferay.http.client.web
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.test.http.client.portlet.geoip.constants

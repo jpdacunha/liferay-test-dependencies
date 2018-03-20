@@ -1,0 +1,3 @@
+Bundle-Name: test-liferay-http-client-command
+Bundle-SymbolicName: test.liferay.http.client.command
+Bundle-Version: 1.0.0
